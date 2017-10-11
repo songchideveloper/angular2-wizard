@@ -1,5 +1,5 @@
 {
-  "name": "angular2-wizard",
+  "name": "angular2-wizard-gobo",
   "version": "0.3.0",
   "scripts": {
     "build": "ngc -p tsconfig.json",
@@ -10,23 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maiyaporn/angular2-wizard"
+    "url": "https://github.com/songchideveloper/angular2-wizard"
   },
   "author": {
-    "name": "Maiyaporn Phanich",
-    "email": "p.maiyaporn@gmail.com"
+    "name": "WS",
+    "email": "songchideveloper@gmail.com"
   },
   "keywords": [
-    "angular2-wizard",
-    "form-wizard",
-    "wizard",
-    "wizard-step",
-    "angular2",
-    "angular2-component"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maiyaporn/angular2-wizard/issues"
+    "url": "https://github.com/songchideveloper/angular2-wizard/issues"
   },
   "main": "./dist/index.js",
   "dependencies": {
